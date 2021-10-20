@@ -1,3 +1,5 @@
+//Place this file into the root of your website folder
+
 <?php
 session_start();
 ?>
